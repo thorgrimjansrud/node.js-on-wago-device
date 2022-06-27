@@ -1,4 +1,4 @@
-# Install and test Node.js on a Wago Device.
+# Install Node.js on a Wago Device.
 Be aware of the device partition sizes and space required for the installation and future apps.
 This example is based on 750-9301 (Compact Controller 100) with firmware 21, and requires some basic knowledge of Wago controllers.
 
