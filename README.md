@@ -23,7 +23,7 @@ We must also have additional GCC support for atomic operations:
 ```
 wget http://ftp.de.debian.org/debian/pool/main/g/gcc-6/libatomic1_6.3.0-18+deb9u1_armhf.deb
 ```
-## Unpack and install Node.js:
+## Unpack and install Node.js
 
 Unpack Node.js in /home/node directory:
 ```
