@@ -13,7 +13,7 @@ Log in as root and make/select a folder:
 ```
 cd /home
 mkdir node
-cd home
+cd node
 ```
 Get the Node.js tarball:
 ```
