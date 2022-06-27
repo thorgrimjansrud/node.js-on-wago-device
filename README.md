@@ -1,7 +1,8 @@
-# Install and test Node.js on a Wago Device
+# Install and test Node.js on a Wago Device.
+Be aware of the device partition sizes and space required for the installation and future apps.
 
 ## Installation of WSL and Ubuntu distribution
-This is a hyperlink: [Install Windows Subsystem for Linux.](https://docs.microsoft.com/en-us/windows/wsl/install-win10) <br/>
+This is a hyperlink: [Install Windows Subsystem for Linux.]([https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://nodejs.org/en/download/)) <br/>
 
 Picture:
 <div align="left">
