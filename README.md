@@ -6,7 +6,7 @@ This example is based on 750-9301 (Compact Controller 100) with firmware 21, and
 If the controller network card is not DHCP (default), this must be set to have an online connection to internet.
 
 ## Download Node.js
-Latest version of Node.js found on homepage [Node.js.](https://nodejs.org/en/download/) <br/>
+Latest version of Node.js found on homepage [here.](https://nodejs.org/en/download/) <br/>
 In this example we use Node v16.13.1.
 
 Log in as root and make/select a folder:
