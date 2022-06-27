@@ -55,5 +55,6 @@ node -v
 npm version
 npx -v
 ```
-> Output would depend on version <br/>
+> Output would depend on version. <br/>
+> Run prefered updates. <br/>
 
