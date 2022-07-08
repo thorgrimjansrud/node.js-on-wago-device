@@ -31,9 +31,10 @@ Unpack Node.js in /home/node directory:
 ```
 tar -xJvf node-v16.13.1-linux-armv7l.tar.xz -C /home/node
 ```
-Unpack libatomic from .deb to /usr/lib directory:
+Unpack libatomic to /usr/lib directory:
 ```
 ar x libatomic1_6.3.0-18+deb9u1_armhf.deb 
+tar xvf data.tar.xz
 cp usr/lib/arm-linux-gnueabihf/libatomic.so.1 /usr/lib
 ```
 If you want, clean up unwanted files:
