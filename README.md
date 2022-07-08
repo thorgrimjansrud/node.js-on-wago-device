@@ -20,6 +20,8 @@ Get the Node.js tarball:
 wget https://nodejs.org/dist/v16.13.1/node-v16.13.1-linux-armv7l.tar.xz
 ```
 > WGET Bug in PFC8xxx FW21 "connection reset by per" (pending) <br/>
+
+We must also have additional GCC support for atomic operations:
 ```
 wget http://ftp.de.debian.org/debian/pool/main/g/gcc-6/libatomic1_6.3.0-18+deb9u1_armhf.deb
 ```
